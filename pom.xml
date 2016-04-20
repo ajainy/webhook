@@ -137,5 +137,13 @@
         <version>5.0.0.RELEASE</version>
       </extension>
   	</extensions>
+  	<resources>
+      <resource>
+        <directory>src/main/resources</directory>
+        <excludes>
+          <exclude>application-webhook.properties</exclude>
+        </excludes>
+      </resource>
+    </resources>
 	</build>
 </project>
