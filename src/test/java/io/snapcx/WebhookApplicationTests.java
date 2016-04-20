@@ -1,5 +1,7 @@
 package io.snapcx;
 
+import io.snapcx.webhook.WebhookApplication;
+
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.boot.test.SpringApplicationConfiguration;

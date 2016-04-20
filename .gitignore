@@ -1,0 +1,4 @@
+/target/
+.classpath
+.project
+/src/main/resources/application-webhook.properties
